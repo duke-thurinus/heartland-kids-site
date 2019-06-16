@@ -1,13 +1,12 @@
 import React from 'react';
 import FlexDiv from 'common/flex-div';
-import NavBar from 'pages/container/responsive-nav';
-import NavRouter from 'pages/container/nav-router';
-import HeaderBar from 'pages/container/header-bar';
+import NavBar from './container/responsive-nav';
+import HeaderBar from './container/header-bar';
 import { WhiteRedTheme } from 'common/colors';
-import { ThemeProvider } from '@material-ui/styles';
 import {BrowserRouter, Link} from 'react-router-dom';
-import { MenuList } from '@material-ui/core';
-import FooterBar from 'pages/container/footer-bar';
+import FooterBar from './container/footer-bar';
+import { ThemeProvider } from '@material-ui/styles';
+import PageContainer from './container/page-container';
 
 export default () => {
   return (
@@ -17,6 +16,7 @@ export default () => {
           alignItems="center"
           style={{
             paddingTop: '0',
+            minHeight: '100vh',
           }}
         >
           <ThemeProvider theme={WhiteRedTheme}>
@@ -25,7 +25,7 @@ export default () => {
             >
               <HeaderBar/>
               <NavBar/>
-              <NavRouter/>
+              <PageContainer/>
               <FooterBar/>
             </BrowserRouter>
           </ThemeProvider>
