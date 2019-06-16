@@ -4,7 +4,7 @@ import AppBar from '@material-ui/core/AppBar';
 import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import { withRouter } from 'react-router-dom';
-import { RouteLabels } from 'common/nav-router';
+import { RouteLabels } from 'pages/container/nav-router';
 
 // export interface LinkTabProps {
 //   label: string;

@@ -4,13 +4,6 @@ import useMediaQuery from '@material-ui/core/useMediaQuery';
 import MenuNavBar from 'pages/container/menu-nav-bar';
 import TabNavBar from 'pages/container/tab-nav-bar';
 
-const useStyles = makeStyles({
-    root: {
-      flexGrow: 1,
-      width: '100%',
-    },
-});
-
 export default () => {
   const theme = useTheme();
   const isSmallScreen = useMediaQuery(theme.breakpoints.down('xs'));

@@ -5,6 +5,7 @@ export const colorStrings = {
     boldRed: '#c41515',
     white: '#ffffff',
     softRed: '#db736b',
+    softPink: '#FCE4EC',
     blue: '#529ecc',
     grey: '#9ca0a3',
     yellow: '#ffa400',
