@@ -2,6 +2,7 @@ import * as React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import LandingPage from 'pages/landing-page/landing-page';
 import AboutUsPage from 'pages/about-us/about-us-page';
+import MoreInfoPage from 'pages/more-info-page/more-info-page';
 
 export interface RouteLabelProps {
     label: string;
@@ -30,7 +31,6 @@ export const RouteLabels: RouteLabelProps[] = [
     },
 ];
 
-const MoreInfoPage = () => <div>More info  page</div>;
 const ResourcesPage = () => <div>Resoures  page</div>;
 const PetitionPage = () => <div>Petition</div>;
 

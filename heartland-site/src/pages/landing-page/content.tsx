@@ -1,3 +1,5 @@
+/* tslint:disable */
+
 export default`
 ### Introduction & Demands
 Immigrant children who have family and sponsors in the United States are being detained as 
