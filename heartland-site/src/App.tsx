@@ -1,4 +1,5 @@
 import React from 'react';
+import 'index.css';
 import FlexDiv from 'common/flex-div';
 import NavBar from './container/responsive-nav';
 import HeaderBar from './container/header-bar';
