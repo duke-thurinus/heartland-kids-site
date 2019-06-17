@@ -19,6 +19,9 @@ const useStyles = makeStyles((theme: Theme) =>
     toolBar: {
       justifyContent: 'center',
     },
+    menuIcon: {
+      fontSize: '2.5rem',
+    },
   })
 );
 
@@ -35,7 +38,7 @@ export default () => {
         <AppBar className={classes.appBar} position="sticky">
           <Toolbar className={classes.toolBar}>
             <IconButton onClick={handleClick(true)}>
-                <MenuIcon fontSize="large"/>
+                <MenuIcon className={classes.menuIcon}/>
             </IconButton>
           </Toolbar>
           <Drawer

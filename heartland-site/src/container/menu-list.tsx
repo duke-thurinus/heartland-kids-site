@@ -15,13 +15,11 @@ const useStyles = makeStyles((theme: Theme) =>
       maxWidth: 360,
     },
     list: {
-        paddingTop: 0,
     },
-    listItem: {
-        // FIXME need to also change ripple color 
-        // '&:hover': {
-        //     backgroundColor: colorStrings.softPink,
-        // },
+    listItemText: {
+        fontSize: '1.4rem',
+        color: colorStrings.boldRed,
+        fontWeight: 600,
     },
   })
 );
@@ -39,11 +37,10 @@ export default withRouter((props: any) => {
                     <div key={idx}>
                   <ListItem 
                     key={item.label}
-                    className={classes.listItem}
                     button={true}
                     onClick={() => handleClick(idx)}
                   >
-                      <ListItemText key={idx} primary={item.label}/>
+                      <ListItemText className={classes.listItemText} key={idx} primary={item.label}/>
                   </ListItem>
                   <Divider/>
                     </div>

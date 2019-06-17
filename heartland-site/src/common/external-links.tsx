@@ -3,4 +3,5 @@ export default {
     cdsaMainSite: 'https://chicagodsa.org/',
     cdsaFacebook: 'https://www.facebook.com/ChicagoDemSocialists/',
     cdsaTwitter: 'https://twitter.com/ChicagoCityDSA',
+    petition: 'https://actionnetwork.org/petitions/freeheartlandkids'
 };

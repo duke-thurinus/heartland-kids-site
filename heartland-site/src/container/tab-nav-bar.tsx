@@ -38,6 +38,7 @@ const useStyles = makeStyles((theme: Theme) =>
       boxShadow: '0 4px 2px -2px rgba(0,0,0,0.14)',
     },
     tab: {
+      fontSize: '1.2rem',
 
     },
   })
@@ -59,7 +60,7 @@ export default withRouter((props: any) => {
           <Tabs centered={true} value={value} onChange={handleChange}>
             {
               RouteLabels.map((item) => (
-                <Tab key={item.label} label={item.label}/> )
+                <Tab className={classes.tab} key={item.label} label={item.label}/> )
               )
             }
           </Tabs>

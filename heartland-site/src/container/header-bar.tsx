@@ -25,6 +25,7 @@ const useStyles = makeStyles((theme: Theme) =>
   },
   typography: {
       fontSize: (props: any) => props.fontSize,
+      fontFamily: 'canda-type-gibson',
   },
   logo: {
       maxWidth: (props: any) => props.logoWidth,
@@ -46,8 +47,8 @@ const useStyles = makeStyles((theme: Theme) =>
 export default () => {
   const theme = useTheme();
   const isSmallScreen = useMediaQuery(theme.breakpoints.down('xs'));
-  const fontSize = isSmallScreen ? '1.5rem' : '2.5rem';
-  const logoWidth = isSmallScreen ? '30%' : '8%';
+  const fontSize = isSmallScreen ? '1.6rem' : '2.7rem';
+  const logoWidth = isSmallScreen ? '35%' : '10%';
   const classes = useStyles({fontSize, logoWidth});
 
   return (
