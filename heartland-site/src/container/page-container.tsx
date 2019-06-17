@@ -27,5 +27,5 @@ export default () => {
         <div className={classes.pageContainer}>
               <NavRouter/>
         </div>
-    )
-}
+    );
+};
