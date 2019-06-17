@@ -1,17 +1,11 @@
-@font-face
-{
-    font-family: proxima-nova, canada-type-gibson, gibson, merriweather, sans-serif;
-    font-weight: normal;
-    font-style: normal;
+@font-face {
+  font-family: proxima-nova, sans-serif;
+  src: url(./static/fonts/proximanova-regular.otf);
 }
 body {
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-  }
-  code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-      monospace;
   }
   a {
     color: #db736b;
