@@ -1,6 +1,11 @@
+@font-face
+{
+    font-family: proxima-nova, canada-type-gibson, gibson, merriweather, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
 body {
     margin: 0;
-    font-family: canada-type-gibson, proxima-nova, effra, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }

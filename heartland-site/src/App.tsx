@@ -4,7 +4,7 @@ import FlexDiv from 'common/flex-div';
 import NavBar from './container/responsive-nav';
 import HeaderBar from './container/header-bar';
 import { WhiteRedTheme } from 'common/colors';
-import {BrowserRouter, Link} from 'react-router-dom';
+import {BrowserRouter} from 'react-router-dom';
 import FooterBar from './container/footer-bar';
 import { ThemeProvider } from '@material-ui/styles';
 import PageContainer from './container/page-container';
