@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme: Theme) =>
   },
   typography: {
       fontSize: (props: any) => props.fontSize,
-      fontFamily: 'proixma-nova sans-seriff',
+      fontFamily: 'inherit',
   },
   logo: {
       maxWidth: (props: any) => props.logoWidth,
