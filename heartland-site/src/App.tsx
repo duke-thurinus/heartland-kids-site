@@ -8,6 +8,8 @@ import {BrowserRouter} from 'react-router-dom';
 import FooterBar from './container/footer-bar';
 import { ThemeProvider } from '@material-ui/styles';
 import PageContainer from './container/page-container';
+import LinkButton from 'common/link-button';
+import externalLinks from 'common/external-links';
 
 export default () => {
   return (
@@ -27,6 +29,7 @@ export default () => {
               <HeaderBar/>
               <NavBar/>
               <PageContainer/>
+              <LinkButton link={externalLinks.takeAction} />
               <FooterBar/>
             </BrowserRouter>
           </ThemeProvider>

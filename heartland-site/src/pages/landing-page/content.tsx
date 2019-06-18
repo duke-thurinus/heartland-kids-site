@@ -13,9 +13,9 @@ of Refugee Resettlement in direct cooperation with U.S. Immigration and Customs 
 There are typically between 300 and 400 children detained in these facilities at any given time. 
 As of July 2018, 
 [ProPublica](https://www.propublica.org/article/illinois-chicago-children-teens-immigration-shelters-heartland)
-reported that, “of the more than 100 federally contracted sites 
+reported that, _“of the more than 100 federally contracted sites 
 around the country, Heartland has received the fourth-highest amount of federal dollars for 
-housing unaccompanied minors since fiscal year 2015—more money than any other organization outside Texas.”
+housing unaccompanied minors since fiscal year 2015—more money than any other organization outside Texas.”_
 Heartland Alliance claims to be providing these children safe harbor. They hold that children who enter the 
 country without an accompanying adult “have to go somewhere,” arguing that Heartland’s facilities 
 are preferable to one of the larger-scale detention centers with more well-publicized horrifying conditions

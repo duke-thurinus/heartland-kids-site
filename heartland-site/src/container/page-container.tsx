@@ -21,7 +21,6 @@ export default () => {
     const isSmallScreen = useMediaQuery(theme.breakpoints.down('xs'));
     const isLargeScreen = useMediaQuery(theme.breakpoints.up('lg'));
     const marginSides = isLargeScreen ? '15%' : (isSmallScreen ? '5%' : '10%');
-    console.log(marginSides);
     const classes = useStyles({marginSides});
     return (
         <div className={classes.pageContainer}>
