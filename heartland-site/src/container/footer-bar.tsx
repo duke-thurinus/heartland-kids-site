@@ -52,18 +52,21 @@ export default () => {
                 <IconButton 
                     href={`mailto:${externalLinks.freeHeartlandEmail}`} 
                     component={Link}
+                    color="primary"
                 >
                     <EmailIcon/>
                 </IconButton>
                 <IconButton 
                     href={externalLinks.cdsaTwitter} 
                     component={Link}
+                    color="primary"
                 >
                     <FaTwitter/>
                 </IconButton>
                 <IconButton 
                     href={externalLinks.cdsaFacebook} 
                     component={Link}
+                    color="primary"
                 >
                     <FaFacebookF/>
                 </IconButton>
