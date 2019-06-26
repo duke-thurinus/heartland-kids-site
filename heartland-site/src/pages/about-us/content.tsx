@@ -1,7 +1,7 @@
 
 /* tslint:disable */
 export default`
-<div display="flex" justify-content="center" width="100%">
+<div display="flex" justify-content="center" width="100%" padding-top="5px">
 <img src="https://live.staticflickr.com/65535/48130336093_c9c7f323fe_o.jpg" alt="Image from iOS">
 </div>
 
