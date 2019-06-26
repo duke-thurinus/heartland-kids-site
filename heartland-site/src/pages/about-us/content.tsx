@@ -1,6 +1,10 @@
 
 /* tslint:disable */
 export default`
+<div display="flex" justify-content="center" width="100%">
+<img src="https://live.staticflickr.com/65535/48130336093_c9c7f323fe_o.jpg" alt="Image from iOS">
+</div>
+
 ### About Us
 In July 2018, journalists from the
 [Washington Post](https://www.washingtonpost.com/local/immigrant-children-held-in-shelters-they-told-us-to-behave-or-wed-be-here-forever/2018/07/14/635f4cee-86b4-11e8-8f6c-46cb43e3f306_story.html), 

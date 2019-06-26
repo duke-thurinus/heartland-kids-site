@@ -27,3 +27,6 @@ body {
   li {
     color:  #191919;
   }
+  img {
+    max-width: 90%;
+  }

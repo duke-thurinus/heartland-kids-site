@@ -32,13 +32,18 @@ Heartland Human Care Services (HHCS), a division of Heartland Alliance, began re
 
 DHHS grants for the Unaccompanied Alien Children program (including post-detention wellness checks) accounted for 
 [70% of Heartland Human Care Services' total revenue in 2017](https://taggs.hhs.gov/)
+
+
 (the last year for which 990 filings are available). This amounts to roughly 25% of Heartland Alliance’s overall revenue. Prior to 2014, the Heartland Alliance for Human Needs and Human Rights was the recipient of these federal UAC program funds, receiving a total of $65.8 million over five years. Don’t let the term “nonprofit” confuse you: Heartland profits off of child detention. Considering the proportion of Heartland Alliance’s revenue dedicated to UAC detention, it is clear and indisputable that they monetarily benefit from child detentions.
 
 Heartland received a staggering $40.2 million in federal grant money to operate these detention centers in 2017 alone. In 2018, that increased to $48.8 million. 
 [And as federal grants have increased, so has Heartland executive pay](https://projects.propublica.org/nonprofits/organizations/364053244).
 
 In addition to this federal funding, Heartland Alliance receives state and municipal funds for unrelated programs. The city of Chicago has funded Heartland Alliance programs to the tune of $22 million over the past 4 years. Governor JB Pritzker’s personal foundation has also funded Heartland, giving at least half a million dollars to the organization in 2017 per Heartland’s annual report. Public money (or public figures’ money) demands public accountability.
-
+<div display="flex" flex-direction="column">
+<img src="https://live.staticflickr.com/65535/48130132358_ecfc0fbfc5.jpg" width="480" height="289" alt="hhcs-funding">
+<img src="https://live.staticflickr.com/65535/48130153422_2f5479d28e_z.jpg" width="554" height="308" alt="federal-grants">
+</div>
 
 ### Damage of Child Detention
 The American Psychological Association (APA) has 

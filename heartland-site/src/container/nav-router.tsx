@@ -5,6 +5,7 @@ import LandingPage from 'pages/landing-page/landing-page';
 import AboutUsPage from 'pages/about-us/about-us-page';
 import MoreInfoPage from 'pages/more-info-page/more-info-page';
 import ResourcesPage from 'pages/additional-resources/additional-resources-page';
+import MediaPage from 'pages/media-page/meida-page';
 import { Link } from '@material-ui/core';
 import externalLinks from 'common/external-links';
 
@@ -30,6 +31,10 @@ export const RouteLabels: RouteLabelProps[] = [
         route: 'additional-resoures',
     },
     {
+        label: 'Media',
+        route: 'media',
+    },
+    {
         label: 'Petition',
         route: 'petition',
     },
@@ -43,6 +48,7 @@ const NavRouter = () => (
     <Route path="/about-us" component={AboutUsPage} />
     <Route path="/more-info" component={MoreInfoPage} />
     <Route path="/additional-resoures" component={ResourcesPage} />
+    <Route path="/media" component={MediaPage} />
     <Route 
       path="/petition" 
       component={() => {

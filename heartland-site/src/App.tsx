@@ -29,7 +29,7 @@ export default () => {
               <HeaderBar/>
               <NavBar/>
               <PageContainer/>
-              <LinkButton link={externalLinks.takeAction} />
+              <LinkButton link={externalLinks.petition} />
               <FooterBar/>
             </BrowserRouter>
           </ThemeProvider>
