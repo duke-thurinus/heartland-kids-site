@@ -30,3 +30,12 @@ body {
   img {
     max-width: 90%;
   }
+  .image-gallery-slides {
+    text-align: center;
+    }
+
+
+  .image-gallery-left-nav:hover::before,
+  .image-gallery-right-nav:hover::before {
+    color: #db736b; 
+  }

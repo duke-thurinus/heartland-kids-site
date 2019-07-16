@@ -33,4 +33,5 @@ After we delivered the [letter to David Sinski](https://drive.google.com/file/d/
 [Telemundo Coverage](https://www.telemundochicago.com/noticias/destacados/chicago-comunidad-se-une-contra-agencia-que-separa-familias-migrantes-511427192.html?fbclid=IwAR1Xvxfctk75uLxJjMNs1xr9EgNlCEhgD4zPI5qWIE6O1KPxBYzJ617GQcc)
 
 [Blockclub Chicago Coverage](https://blockclubchicago.org/2019/06/18/protesters-demand-release-of-immigrant-children-in-heartlands-chicago-shelters)
+
 `;
