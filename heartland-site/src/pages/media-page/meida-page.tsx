@@ -2,7 +2,7 @@
 import * as React from 'react';
 import Markdown from 'react-markdown';
 import Content from './content';
-import ImageSlideshow from './slide-show';
+import ImageSlideshow from '../../common/slide-show';
 
 export default () => {
     return (
