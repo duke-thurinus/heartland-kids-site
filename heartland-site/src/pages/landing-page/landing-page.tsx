@@ -5,7 +5,10 @@ import Content from './content';
 export default () => {
     return (
         <div >
-            <Markdown source={Content}/>
+            <Markdown
+                source={Content}
+                escapeHtml={false}
+            />
         </div>
     );
 };
