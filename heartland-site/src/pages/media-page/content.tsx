@@ -1,6 +1,33 @@
 
 /* tslint:disable */
 export default`
+## COVID-19 Outbreak: April 2020
+[ProPublica IL: At Least 19 Children at a Chicago Shelter for Immigrant Detainees Have Tested Positive for COVID-19 
+](https://www.propublica.org/article/at-least-19-children-at-a-chicago-shelter-for-immigrant-detainees-have-tested-positive-for-covid-19)
+
+[NBC Chicago: 37 Children Test Positive for Coronavirus at Chicago Shelter for Immigrant Detainees](https://www.nbcchicago.com/top-videos-home/37-children-test-positive-for-coronavirus-at-chicago-shelter-for-immigrant-detainees/2255871/)
+
+[Telemundo: sube a 37 la cifra de niños inmigrantes con COVID-19 en albergue](https://www.telemundochicago.com/noticias/local/sube-a-37-la-cifra-de-ninos-inmigrantes-con-covid-19-en-albergue-de-chicago/2081856/)
+
+[Chicago Sun Times: Nearly 40 immigrant children test positive at Chicago shelters](https://chicago.suntimes.com/platform/amp/coronavirus/2020/4/14/21220810/immigrant-children-test-positive-covid-19-coronavirus-chicago-shelters-heartland-alliance)
+
+<div display="flex" justify-content="center" width="100%" padding-top="5px">
+<img src="https://live.staticflickr.com/65535/49807675963_feca6c617e_z.jpg" alt="Week of action photo">
+</div>
+
+## Week of Action: June, 2019
+After we delivered the [letter to David Sinski](https://drive.google.com/file/d/13DGkXr3_QdnCErm6Z5-upqfx4P5k74xZ/view), we demonstrated for five days outside the Heartland Alliance headquarters in the Chicago Loop.  
+
+[Univision Coverage](https://www.univision.com/local/chicago-wgbo/manifestantes-en-chicago-piden-fin-al-acuerdo-que-permite-la-detencion-de-ninos-migrantes-video)
+
+[Telemundo Coverage](https://www.telemundochicago.com/noticias/destacados/chicago-comunidad-se-une-contra-agencia-que-separa-familias-migrantes-511427192.html?fbclid=IwAR1Xvxfctk75uLxJjMNs1xr9EgNlCEhgD4zPI5qWIE6O1KPxBYzJ617GQcc)
+
+[Blockclub Chicago Coverage](https://blockclubchicago.org/2019/06/18/protesters-demand-release-of-immigrant-children-in-heartlands-chicago-shelters)
+
+<div display="flex" justify-content="center" width="100%" padding-top="5px">
+<img src="https://live.staticflickr.com/65535/49808532067_04ac82c300_b.jpg" alt="Week of action photo">
+</div>
+
 ## Fall and summer 2018
 **Chicago Tribune**: 
 - [Chicago Shelter, Sessions sued after 2 Brazilian boys separated from parents at border transferred here](https://www.chicagotribune.com/news/ct-met-heartland-alliance-children-shelter-20180621-story.html) by Tony Briscoe  
@@ -24,14 +51,8 @@ export default`
 
 - [5 things you need to know about the closing of immigrant youth shelters in Illinois](https://www.propublica.org/article/five-things-to-know-illinois-immigrant-youth-shelters-closing) by Melissa Sanchez, Duaa Eldeib, and Jodi S Cohen 
 
-
-## Week of Action: June, 2019
-After we delivered the [letter to David Sinski](https://drive.google.com/file/d/13DGkXr3_QdnCErm6Z5-upqfx4P5k74xZ/view), we demonstrated for five days outside the Heartland Alliance headquarters in the Chicago Loop.  
-
-[Univision Coverage](https://www.univision.com/local/chicago-wgbo/manifestantes-en-chicago-piden-fin-al-acuerdo-que-permite-la-detencion-de-ninos-migrantes-video)
-
-[Telemundo Coverage](https://www.telemundochicago.com/noticias/destacados/chicago-comunidad-se-une-contra-agencia-que-separa-familias-migrantes-511427192.html?fbclid=IwAR1Xvxfctk75uLxJjMNs1xr9EgNlCEhgD4zPI5qWIE6O1KPxBYzJ617GQcc)
-
-[Blockclub Chicago Coverage](https://blockclubchicago.org/2019/06/18/protesters-demand-release-of-immigrant-children-in-heartlands-chicago-shelters)
+<div display="flex" justify-content="center" width="100%" padding-top="5px">
+<img src="https://live.staticflickr.com/65535/49808227101_e8954f5ddb_b.jpg" alt="Week of action photo">
+</div>
 
 `;

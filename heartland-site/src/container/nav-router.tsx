@@ -34,10 +34,10 @@ export const RouteLabels: RouteLabelProps[] = [
         label: 'Media',
         route: 'media',
     },
-    {
-        label: 'Petition',
-        route: 'petition',
-    },
+    // {
+    //     label: 'Petition',
+    //     route: 'petition',
+    // },
 ];
 
 const PetitionPage = () => <Link component="a" href={externalLinks.petition}>Petition</Link>;
@@ -49,11 +49,11 @@ const NavRouter = () => (
     <Route path="/more-info" component={MoreInfoPage} />
     <Route path="/additional-resoures" component={ResourcesPage} />
     <Route path="/media" component={MediaPage} />
-    <Route 
-      path="/petition" 
+    <Route
+      path="/petition"
       component={() => {
         // FIXME GROSS ****
-        window.location.href = 'https://actionnetwork.org/petitions/freeheartlandkids'; 
+        window.location.href = 'https://actionnetwork.org/petitions/freeheartlandkids';
         return null;
       }}
     />

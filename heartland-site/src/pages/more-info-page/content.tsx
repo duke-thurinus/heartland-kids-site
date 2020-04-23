@@ -40,10 +40,8 @@ Heartland received a staggering $40.2 million in federal grant money to operate 
 [And as federal grants have increased, so has Heartland executive pay](https://projects.propublica.org/nonprofits/organizations/364053244).
 
 In addition to this federal funding, Heartland Alliance receives state and municipal funds for unrelated programs. The city of Chicago has funded Heartland Alliance programs to the tune of $22 million over the past 4 years. Governor JB Pritzker’s personal foundation has also funded Heartland, giving at least half a million dollars to the organization in 2017 per Heartland’s annual report. Public money (or public figures’ money) demands public accountability.
-<div display="flex" flex-direction="column">
-<img src="https://live.staticflickr.com/65535/48130132358_ecfc0fbfc5.jpg" width="480" height="289" alt="hhcs-funding">
-<img src="https://live.staticflickr.com/65535/48130153422_2f5479d28e_z.jpg" width="554" height="308" alt="federal-grants">
-</div>
+<img src="https://live.staticflickr.com/65535/49808268656_a4d63404da.jpg" width="480" height="309" alt="hhcs-funding-1">
+<img src="https://live.staticflickr.com/65535/49808268671_38b796bbce.jpg" width="500" height="330" alt="hhcs-funding-2">
 
 ### Damage of Child Detention
 The American Psychological Association (APA) has 
