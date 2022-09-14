@@ -35,5 +35,9 @@ tags
 
 # End of https://www.gitignore.io/api/vim,visualstudiocode
 
-## Build Folder ##
+### webstorm ###
+.idea
+
+## Build ##
 build/
+heartland-site/build.zip
