@@ -10,6 +10,7 @@ export default () => {
             <Markdown 
                 source={Content}
                 escapeHtml={false}
+                className={'text'}
             />
             <ImageSlideshow url={'https://photos.app.goo.gl/72C491nFxHkP9hdw6'}/>
         </div>

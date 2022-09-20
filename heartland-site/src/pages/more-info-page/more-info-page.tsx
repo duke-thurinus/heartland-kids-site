@@ -9,6 +9,7 @@ export default () => {
             <Markdown 
                 escapeHtml={false}
                 source={Content}
+                className={'text'}
             />
         </div>
     );

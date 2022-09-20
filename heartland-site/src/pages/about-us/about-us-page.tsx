@@ -2,6 +2,7 @@
 import * as React from 'react';
 import Markdown from 'react-markdown';
 import Content from './content';
+import 'index.css';
 
 export default () => {
     return (
@@ -9,6 +10,7 @@ export default () => {
             <Markdown 
                 source={Content}
                 escapeHtml={false}
+                className={'text'}
             />
         </div>
     );

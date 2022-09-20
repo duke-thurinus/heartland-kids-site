@@ -1,30 +1,22 @@
 
 /* tslint:disable */
 export default`
+
+# About Us
+FreeHeartlandKids is an ongoing campaign of the Chicago Democratic Socialists of America which is part of a broader movement dedicated to shutting down child migrant detention centers in Chicago.
+
+## We demand that Heartland Alliance:
+
+1. Immediately cease intaking migrant children into their detention centers.
+2. Immediately end their contract with the U.S. Department of Health and Human Services (DHHS) to detain migrant children.
+3. Release and reunify the migrant children in their physical custody with their sponsors and families in the United States as soon as possible without sharing their sponsors’ biometric data, documentation status, or other personal information with ICE or with any federal agency that shares information with ICE.
+4. Pledge to use their resources and power to fight for a true detention-free, deportation-free, and ICE-free zone in Chicago.
+
+We are convinced that an immediate end to child immigrant detention in the Chicagoland area is the only moral decision we can make.
+
 <div display="flex" justify-content="center" width="100%" padding-top="5px">
 <img src="https://live.staticflickr.com/65535/48130336093_c9c7f323fe_o.jpg" alt="Image from iOS">
 </div>
 
-### About Us
-In July 2018, journalists from the
-[Washington Post](https://www.washingtonpost.com/local/immigrant-children-held-in-shelters-they-told-us-to-behave-or-wed-be-here-forever/2018/07/14/635f4cee-86b4-11e8-8f6c-46cb43e3f306_story.html), 
-[ProPublica](https://www.propublica.org/article/illinois-chicago-children-teens-immigration-shelters-heartland), 
-and other media outlets began covering the abuses many children in Heartland detention centers experienced, the lasting trauma 
-these children suffered from their detention, and the lack of accountability for many of the abuses 
-they underwent. Some members of the Immigration Rights Committee (IRC) already knew that the shutdown 
-of these detention centers would be an indispensable measure in any campaign to support those affected 
-by detention — others of us were not sure where to stand.
-
-Following protests at Heartland events and facilities by Chicago’s Little Village Solidarity Network
-in November 2018, we began to conduct our own investigation into the history of child immigrant detention
-in Chicago, its current state, and the division between those trying to make better detention centers 
-and those fighting to shut down local detention centers. Now, almost a year after those initial exposés 
-were published, we agree with Sandoval-Moshenberg’s warning: 
-
-[“It takes a hell of a savior complex to really believe that a kid in your jail is better off than 
-being with his family.”](https://www.propublica.org/article/illinois-chicago-children-teens-immigration-shelters-heartland)
-
-**We are convinced that an immediate end to child immigrant detention in the Chicagoland area is the only 
-moral decision we can make**.
 
 `;
