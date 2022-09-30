@@ -5,6 +5,9 @@ import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import { withRouter } from 'react-router-dom';
 import { RouteLabels } from 'container/nav-router';
+import Logo from '../static/images/heartland-kids-logo.svg';
+import Toolbar from '@material-ui/core/Toolbar';
+import {Image} from '@material-ui/icons';
 
 // export interface LinkTabProps {
 //   label: string;
@@ -41,6 +44,12 @@ const useStyles = makeStyles((theme: Theme) =>
       fontSize: '1.2rem',
 
     },
+      image: {
+          height: '6%',
+          width: '6%',
+          fit: 'contain',
+          paddingRight: '25px',
+      },
   })
 );
 
@@ -57,13 +66,15 @@ export default withRouter((props: any) => {
   return (
       <div className={classes.root}>
         <AppBar className={classes.appBar} position="sticky">
-          <Tabs centered={true} value={value} onChange={handleChange}>
-            {
-              RouteLabels.map((item) => (
-                <Tab className={classes.tab} key={item.label} label={item.label}/> )
-              )
-            }
-          </Tabs>
+            <Toolbar>
+                <img className={classes.image} src={Logo} alt={'The logo of Free Heartland Kids: An adult holding the hand of a child'}/>
+                <Tabs centered={true} value={value} onChange={handleChange}>
+                    {
+                        RouteLabels.map((item) => (
+                            <Tab className={classes.tab} key={item.label} label={item.label}/>)
+                        )
+                    }
+                </Tabs></Toolbar>
         </AppBar>
       </div>
   );

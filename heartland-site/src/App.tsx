@@ -26,7 +26,7 @@ export default () => {
             <BrowserRouter
               basename="/"
             >
-              <HeaderBar/>
+              {/*<HeaderBar/>*/}
               <NavBar/>
               <PageContainer/>
               {/*<LinkButton link={externalLinks.petition} />*/}
