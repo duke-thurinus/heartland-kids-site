@@ -1,9 +1,9 @@
 /* tslint:disable */
 
 export default `
-<div display="flex" justify-content="center" width="100%" padding-top="5px">
+<!--<div display="flex" justify-content="center" width="100%" padding-top="5px">
 <img src="https://live.staticflickr.com/65535/49807632543_71483b5287_z.jpg" alt="Image from iOS">
-</div>
+</div>-->
 
 # Help End the Detention and Deportation Machine by Ending Child Migrant Detention Right Here In Chicago
 ## Heartland Alliance detains hundreds of migrant children in Chicago every year.
